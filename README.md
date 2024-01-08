@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christopher patrick
 - 👀 I’m interested in ... trabalhar como programador
-- 🌱 I’m currently learning ...a progrmar em javascrript
+- 🌱 I’m currently learning ...a programar em javascrript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... atravez do meu email (laranjaazul777@gmail.com)
 
